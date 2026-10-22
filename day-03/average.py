@@ -6,4 +6,3 @@ D = float(input("enter the fourth quize mark:"))
  
 average_mark = (A + B + C + D)/4
  
-print("Your average mark is:",f"{average_mark:.2f}")
